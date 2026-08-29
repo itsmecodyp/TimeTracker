@@ -1,0 +1,10 @@
+/.vs/ProjectEvaluation
+/.vs/TimeTracker.slnx/DesignTimeBuild
+*.vsidx
+*.v2
+.vs/TimeTracker.slnx/v18/.suo
+.vs/TimeTracker.slnx/v18/DocumentLayout.backup.json
+.vs/TimeTracker.slnx/v18/DocumentLayout.json
+/bin
+/obj/Debug
+/obj
